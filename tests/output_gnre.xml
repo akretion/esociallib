@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TLote_GNRE xmlns="http://www.gnre.pe.gov.br" versao="2.00">
+  <guias>
+    <TDadosGNRE versao="2.00">
+      <ufFavorecida>PR</ufFavorecida>
+      <tipoGnre>0</tipoGnre>
+      <contribuinteEmitente>
+        <identificacao/>
+        <razaoSocial>Unimake Software</razaoSocial>
+        <endereco>Rua teste</endereco>
+        <municipio>18402</municipio>
+        <uf>PR</uf>
+        <cep>87704030</cep>
+        <telefone>31414900</telefone>
+      </contribuinteEmitente>
+      <itensGNRE>
+        <item>
+          <receita>123456</receita>
+          <documentoOrigem tipo="01">1234</documentoOrigem>
+          <referencia>
+            <periodo>0</periodo>
+            <mes>11</mes>
+          </referencia>
+          <dataVencimento>2020-09-14</dataVencimento>
+          <valor tipo="11">10.00</valor>
+          <contribuinteDestinatario>
+            <identificacao/>
+            <razaoSocial>Unimake Software</razaoSocial>
+            <municipio>18402</municipio>
+          </contribuinteDestinatario>
+          <camposExtras>
+            <campoExtra>
+              <codigo>123</codigo>
+              <valor>1500</valor>
+            </campoExtra>
+          </camposExtras>
+        </item>
+      </itensGNRE>
+      <valorGNRE>150.33</valorGNRE>
+    </TDadosGNRE>
+  </guias>
+</TLote_GNRE>
