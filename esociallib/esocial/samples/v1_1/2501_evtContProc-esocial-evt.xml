@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eSocial xmlns="http://www.esocial.gov.br/schema/evt/evtContProc/v_S_01_01_00">
+	<evtContProc Id="ID1000000000000002017102608080800001">
+		<ideEvento>
+			<indRetif>1</indRetif>
+			<nrRecibo>1.1.1111111111111111111</nrRecibo>
+			<tpAmb>1</tpAmb>
+			<procEmi>1</procEmi>
+			<verProc>verProc1</verProc>
+		</ideEvento>
+		<ideEmpregador>
+			<tpInsc>1</tpInsc>
+			<nrInsc>00000000000000</nrInsc>
+		</ideEmpregador>
+		<ideProc>
+			<nrProcTrab>00000000000000000000</nrProcTrab>
+			<perApurPgto>2020-05</perApurPgto>
+			<obs>obs1</obs>
+		</ideProc>
+		<ideTrab cpfTrab="00000000000">
+			<calcTrib perRef="2022-05" vrBcCpMensal="123.45" vrBcCp13="123.45" vrRendIRRF="123.45" vrRendIRRF13="123.45">
+				<infoCRContrib tpCR="593656" vrCR="123456"/>
+				<infoCRContrib tpCR="593656" vrCR="123.45"/>
+				<infoCRContrib tpCR="593656" vrCR="123.45"/>
+			</calcTrib>
+			<calcTrib perRef="2022-05" vrBcCpMensal="123.45" vrBcCp13="123.45" vrRendIRRF="123.45" vrRendIRRF13="123.45">
+				<infoCRContrib tpCR="593656" vrCR="123456"/>
+				<infoCRContrib tpCR="593656" vrCR="123.45"/>
+				<infoCRContrib tpCR="593656" vrCR="123.45"/>
+			</calcTrib>
+			<infoCRIRRF tpCR="593656" vrCR="1.12"/>
+			<infoCRIRRF tpCR="593656" vrCR="12.45"/>
+			<infoCRIRRF tpCR="593656" vrCR="123.45"/>
+		</ideTrab>
+		<ideTrab cpfTrab="00000000000">
+			<calcTrib perRef="2022-05" vrBcCpMensal="123.45" vrBcCp13="123.45" vrRendIRRF="123.45" vrRendIRRF13="123.45">
+				<infoCRContrib tpCR="593656" vrCR="123456"/>
+				<infoCRContrib tpCR="593656" vrCR="123.45"/>
+				<infoCRContrib tpCR="593656" vrCR="123.45"/>
+			</calcTrib>
+			<calcTrib perRef="2022-05" vrBcCpMensal="123.45" vrBcCp13="123.45" vrRendIRRF="123.45" vrRendIRRF13="123.45">
+				<infoCRContrib tpCR="593656" vrCR="123456"/>
+				<infoCRContrib tpCR="593656" vrCR="123.45"/>
+				<infoCRContrib tpCR="593656" vrCR="123.45"/>
+			</calcTrib>
+			<infoCRIRRF tpCR="593656" vrCR="1.12"/>
+			<infoCRIRRF tpCR="593656" vrCR="12.45"/>
+			<infoCRIRRF tpCR="593656" vrCR="123.45"/>
+		</ideTrab>
+		<ideTrab cpfTrab="00000000000">
+			<calcTrib perRef="2022-05" vrBcCpMensal="123.45" vrBcCp13="123.45" vrRendIRRF="123.45" vrRendIRRF13="123.45">
+				<infoCRContrib tpCR="593656" vrCR="123456"/>
+				<infoCRContrib tpCR="593656" vrCR="123.45"/>
+				<infoCRContrib tpCR="593656" vrCR="123.45"/>
+			</calcTrib>
+			<calcTrib perRef="2022-05" vrBcCpMensal="123.45" vrBcCp13="123.45" vrRendIRRF="123.45" vrRendIRRF13="123.45">
+				<infoCRContrib tpCR="593656" vrCR="123456"/>
+				<infoCRContrib tpCR="593656" vrCR="123.45"/>
+				<infoCRContrib tpCR="593656" vrCR="123.45"/>
+			</calcTrib>
+			<infoCRIRRF tpCR="593656" vrCR="1.12"/>
+			<infoCRIRRF tpCR="593656" vrCR="12.45"/>
+			<infoCRIRRF tpCR="593656" vrCR="123.45"/>
+		</ideTrab>
+	</evtContProc>
+</eSocial>
